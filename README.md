@@ -1,6 +1,9 @@
 # Focus loss on username/password in expo web
 
+> ![inputs losing focus](expo-focus.gif)
+> ---
 > https://github.com/aws-amplify/amplify-js/issues/4483
+
 
 ## How I Set This Up
 
